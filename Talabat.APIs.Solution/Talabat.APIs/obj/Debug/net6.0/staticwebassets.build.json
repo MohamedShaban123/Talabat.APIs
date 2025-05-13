@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "ilAAU6SAEnCClPkD7o87hsNZwgD6bBZKE886tGISyPE=",
+  "Source": "Talabat.APIs",
+  "BasePath": "_content/Talabat.APIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.APIs\\wwwroot",
+      "Source": "Talabat.APIs",
+      "ContentRoot": "C:\\MicrosoftVisulaStudioPrograms\\Talabat.APIs.Solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\MicrosoftVisulaStudioPrograms\\Talabat.APIs.Solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MicrosoftVisulaStudioPrograms\\Talabat.APIs.Solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "images/products/sb-ang1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rt92lerypd",
+      "Integrity": "P/uotCtIlVgtkSUqgLcn2yCTVrjONROTl7czAXCuoPo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/products/sb-ang1.png",
+      "AssetFile": "C:\\MicrosoftVisulaStudioPrograms\\Talabat.APIs.Solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P/uotCtIlVgtkSUqgLcn2yCTVrjONROTl7czAXCuoPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Oct 2023 03:03:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P/uotCtIlVgtkSUqgLcn2yCTVrjONROTl7czAXCuoPo="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/sb-ang1.rt92lerypd.png",
+      "AssetFile": "C:\\MicrosoftVisulaStudioPrograms\\Talabat.APIs.Solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P/uotCtIlVgtkSUqgLcn2yCTVrjONROTl7czAXCuoPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Oct 2023 03:03:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rt92lerypd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-ang1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P/uotCtIlVgtkSUqgLcn2yCTVrjONROTl7czAXCuoPo="
+        }
+      ]
+    }
+  ]
+}
